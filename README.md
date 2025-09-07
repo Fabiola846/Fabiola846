@@ -21,7 +21,7 @@ Trabalho na NEOOH no setor de Programação Digital. Sou apaixonada por tecnolog
         />
 
 <div align="left">
-  <a href="www.linkedin.com/in/fabiola-martins-44b690220" target="_blank">
+  <a href="www.linkedin.com/in/fabiola-martins" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
 </div>
