@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Fabiola Martins
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
  🙋🏽‍♀️Olá! Meu nome é Fabiola Martins, tenho 21 anos e sou estudante de Ciência da Computação no Centro Universitário Dom Helder, em Belo Horizonte.
 
